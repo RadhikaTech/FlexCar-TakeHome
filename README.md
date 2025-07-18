@@ -137,6 +137,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## 👤 Author
 
 **Radhika**
-[GitHub Profile](https://github.com/your-username)
+[RadhikaTech](https://github.com/RadhikaTech))
 
 ---
